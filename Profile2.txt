@@ -1,1 +1,1 @@
-This is a file i used in another branch and now i an pulling a requast for it to be merged.
+This is a file I used in another branch and now I am pulling a request for it to be merged.
